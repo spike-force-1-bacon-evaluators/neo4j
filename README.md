@@ -2,7 +2,7 @@
 
 This repository contains provisioning scripts for deploying a Neo4j instance running in a container using Docker Swarm Mode.
 
-Make start creates a data directory in the current directory and binds it to the container. It also expose the ports 7474 (HTTP) and 7687 (Bolt).
+`make start` creates a data directory in the current directory and binds it to the container. It also expose the ports 7474 (HTTP) and 7687 (Bolt).
 
 ```
 ------------------------------------------------------------------------
