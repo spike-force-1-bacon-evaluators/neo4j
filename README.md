@@ -1,4 +1,4 @@
-# BACON - NEO4J
+# NEO4J
 
 This repository contains provisioning scripts for deploying a Neo4j instance running in a container using Docker Swarm Mode.
 
